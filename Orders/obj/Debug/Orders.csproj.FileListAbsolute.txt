@@ -1,0 +1,13 @@
+M:\Simplilearn\mphasis\Phase-2\day-9\Orders\Orders\bin\Debug\Orders.exe.config
+M:\Simplilearn\mphasis\Phase-2\day-9\Orders\Orders\bin\Debug\Orders.exe
+M:\Simplilearn\mphasis\Phase-2\day-9\Orders\Orders\bin\Debug\Orders.pdb
+M:\Simplilearn\mphasis\Phase-2\day-9\Orders\Orders\bin\Debug\EntityFramework.dll
+M:\Simplilearn\mphasis\Phase-2\day-9\Orders\Orders\bin\Debug\EntityFramework.SqlServer.dll
+M:\Simplilearn\mphasis\Phase-2\day-9\Orders\Orders\bin\Debug\EntityFramework.xml
+M:\Simplilearn\mphasis\Phase-2\day-9\Orders\Orders\bin\Debug\EntityFramework.SqlServer.xml
+M:\Simplilearn\mphasis\Phase-2\day-9\Orders\Orders\obj\Debug\Orders.csproj.AssemblyReference.cache
+M:\Simplilearn\mphasis\Phase-2\day-9\Orders\Orders\obj\Debug\Orders.csproj.SuggestedBindingRedirects.cache
+M:\Simplilearn\mphasis\Phase-2\day-9\Orders\Orders\obj\Debug\Orders.csproj.CoreCompileInputs.cache
+M:\Simplilearn\mphasis\Phase-2\day-9\Orders\Orders\obj\Debug\Orders.csproj.CopyComplete
+M:\Simplilearn\mphasis\Phase-2\day-9\Orders\Orders\obj\Debug\Orders.exe
+M:\Simplilearn\mphasis\Phase-2\day-9\Orders\Orders\obj\Debug\Orders.pdb
